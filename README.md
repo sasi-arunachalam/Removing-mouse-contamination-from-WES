@@ -3,7 +3,7 @@ The major issue of The WES data from patient derived xenofraft samples (i.e, hum
 
 The program take three  arguments:  mouseAlignment humanAlignment outputPrefix
 
-The program has 10 outputs : Since this is a paired end reads : 
+The program has 10 outputs : ( WES FAStq file is a paired end reads)  
 
 Human_only reads  = Aligned perfectly to human reference
 Human_better reads = Both the pair has better score for human alignment 
