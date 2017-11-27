@@ -20,3 +20,7 @@ Tie reads = scores are tied.
 
 BAM output:
 Human only  reads , Humanonly+Human better reads , Humanonly+Human better+Humanbetterone reads and mouse reads
+
+
+Program acknowledgement :
+    Timothy Mosbruger :  <tmosbruger@gmail.com>
