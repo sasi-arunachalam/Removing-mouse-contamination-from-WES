@@ -7,20 +7,31 @@ The program has 10 stats outputs  and four BAM file outputs: ( WES FAStq file is
 
 Stats output:
 
-Human_only reads  = Aligned perfectly to human reference
+Human_only reads  = Aligned perfectly to human reference 
+
 Human_better reads = Both the pair has better score for human alignment 
+
 Human_better_one reads = one of the pair has better score for human alignment 
+
 Human_better_mixedreads = Difference in  pair score favouring  human alignment
+
 Mouse_only reads= Aligned perfectly to mouse reference
+
 Mouse_better reads= Both the pair has better score for mouse alignment 
+
 Mouse_better_one reads= one of the pair has better score for mouse alignment 
+
 Mouse_better_mixed reads=Difference in pair score favouring mouse alignment
+
 Mixed reads = Scores are mixed in pairs cannot decide
+
 Tie reads = scores are tied.
 
 BAM output:
+
 Human only  reads , Humanonly+Human better reads , Humanonly+Human better+Humanbetterone reads and mouse reads
 
 
 Program acknowledgement :
+
     Timothy Mosbruger :  <tmosbruger@gmail.com>
